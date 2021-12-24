@@ -5,3 +5,5 @@ In V2 the search is done using a vantage point tree, where the leaf elements are
 The project is designed for a euclidean space and therefore the distance metric is the euclidean distance. Maybe later a non euclidean approach could be implemented for the sake of generality or special needs.
 
 Manipulating the readfile allows the user to be able to process his/her data in the way they like.
+
+Co-written with (SanchoPanza)[https://github.com/condesancho]
